@@ -1,0 +1,36 @@
+Date: 2/2/2026
+Time: 11:55
+Phone Number: +5511975220779
+Message: Agora a caverna esta de ZapZap, Relatorio enviado
+--------------------
+Date: 2/2/2026
+Time: 11:56
+Phone Number: +5511975220779
+Message: Agora a caverna esta de ZapZap, Relatorio enviado
+--------------------
+Date: 2/2/2026
+Time: 11:58
+Phone Number: +5511975220779
+Message: Agora a caverna esta de ZapZap, Relatorio enviado
+--------------------
+Date: 2/2/2026
+Time: 12:20
+Phone Number: +5511975220779
+Image: C:\Users\fernando.cremm\OneDrive - JADLOG LOGISTICA LTDA\Área de Trabalho\Curso Python1\Aula 04\base\platao.png
+Caption: Agora a caverna está de ZapZap. Relatório enviado ✅
+--------------------
+Date: 2/2/2026
+Time: 18:4
+Phone Number: +5511975220779
+Message: Agora a caverna esta de ZapZap, Relatorio enviado
+--------------------
+Date: 2/2/2026
+Time: 18:5
+Phone Number: +5511974153048
+Message: Agora a caverna esta de ZapZap, Relatorio enviado
+--------------------
+Date: 2/2/2026
+Time: 18:11
+Phone Number: +5511974153048
+Message: Agora a caverna esta de ZapZap, Relatorio enviado
+--------------------
